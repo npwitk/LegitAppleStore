@@ -1,4 +1,4 @@
-# SwiftUI Apple Fruit Shopping App with Apple Pay Integration
+# SwiftUI Apple Store Shopping App with Apple Pay Integration
 
 ## Project Description
 This project is a shopping app built with SwiftUI, offering a seamless and interactive experience for purchasing various apple fruit varieties. It even supports Apple Pay—unless you're in Thailand, in which case, just pretend you’re paying with magic. This allowing users to quickly and securely complete transactions. The app showcases a range of apple breeds, pricing, and a user-friendly interface.
